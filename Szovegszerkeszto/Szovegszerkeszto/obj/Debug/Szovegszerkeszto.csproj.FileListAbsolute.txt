@@ -1,0 +1,10 @@
+C:\Users\sio\source\repos\Szovegszerkeszto\Szovegszerkeszto\bin\Debug\Szovegszerkeszto.exe.config
+C:\Users\sio\source\repos\Szovegszerkeszto\Szovegszerkeszto\bin\Debug\Szovegszerkeszto.exe
+C:\Users\sio\source\repos\Szovegszerkeszto\Szovegszerkeszto\bin\Debug\Szovegszerkeszto.pdb
+C:\Users\sio\source\repos\Szovegszerkeszto\Szovegszerkeszto\obj\Debug\Szovegszerkeszto.csproj.AssemblyReference.cache
+C:\Users\sio\source\repos\Szovegszerkeszto\Szovegszerkeszto\obj\Debug\Szovegszerkeszto.Form1.resources
+C:\Users\sio\source\repos\Szovegszerkeszto\Szovegszerkeszto\obj\Debug\Szovegszerkeszto.Properties.Resources.resources
+C:\Users\sio\source\repos\Szovegszerkeszto\Szovegszerkeszto\obj\Debug\Szovegszerkeszto.csproj.GenerateResource.cache
+C:\Users\sio\source\repos\Szovegszerkeszto\Szovegszerkeszto\obj\Debug\Szovegszerkeszto.csproj.CoreCompileInputs.cache
+C:\Users\sio\source\repos\Szovegszerkeszto\Szovegszerkeszto\obj\Debug\Szovegszerkeszto.exe
+C:\Users\sio\source\repos\Szovegszerkeszto\Szovegszerkeszto\obj\Debug\Szovegszerkeszto.pdb
