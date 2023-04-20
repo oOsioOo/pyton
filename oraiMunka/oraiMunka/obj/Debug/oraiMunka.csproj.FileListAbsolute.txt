@@ -1,0 +1,10 @@
+C:\Users\sio87\source\repos\oraiMunka\oraiMunka\obj\Debug\oraiMunka.csproj.AssemblyReference.cache
+C:\Users\sio87\source\repos\oraiMunka\oraiMunka\obj\Debug\oraiMunka.Form1.resources
+C:\Users\sio87\source\repos\oraiMunka\oraiMunka\obj\Debug\oraiMunka.Properties.Resources.resources
+C:\Users\sio87\source\repos\oraiMunka\oraiMunka\obj\Debug\oraiMunka.csproj.GenerateResource.cache
+C:\Users\sio87\source\repos\oraiMunka\oraiMunka\obj\Debug\oraiMunka.csproj.CoreCompileInputs.cache
+C:\Users\sio87\source\repos\oraiMunka\oraiMunka\bin\Debug\oraiMunka.exe.config
+C:\Users\sio87\source\repos\oraiMunka\oraiMunka\bin\Debug\oraiMunka.exe
+C:\Users\sio87\source\repos\oraiMunka\oraiMunka\bin\Debug\oraiMunka.pdb
+C:\Users\sio87\source\repos\oraiMunka\oraiMunka\obj\Debug\oraiMunka.exe
+C:\Users\sio87\source\repos\oraiMunka\oraiMunka\obj\Debug\oraiMunka.pdb

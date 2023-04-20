@@ -1,0 +1,10 @@
+C:\Users\sio87\source\repos\Listak\Listak\bin\Debug\Listak.exe.config
+C:\Users\sio87\source\repos\Listak\Listak\bin\Debug\Listak.exe
+C:\Users\sio87\source\repos\Listak\Listak\bin\Debug\Listak.pdb
+C:\Users\sio87\source\repos\Listak\Listak\obj\Debug\Listak.csproj.AssemblyReference.cache
+C:\Users\sio87\source\repos\Listak\Listak\obj\Debug\Listak.List.resources
+C:\Users\sio87\source\repos\Listak\Listak\obj\Debug\Listak.Properties.Resources.resources
+C:\Users\sio87\source\repos\Listak\Listak\obj\Debug\Listak.csproj.GenerateResource.cache
+C:\Users\sio87\source\repos\Listak\Listak\obj\Debug\Listak.csproj.CoreCompileInputs.cache
+C:\Users\sio87\source\repos\Listak\Listak\obj\Debug\Listak.exe
+C:\Users\sio87\source\repos\Listak\Listak\obj\Debug\Listak.pdb

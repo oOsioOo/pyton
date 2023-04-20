@@ -1,0 +1,10 @@
+C:\Users\sio87\source\repos\szamKezeles\szamKezeles\bin\Debug\szamKezeles.exe.config
+C:\Users\sio87\source\repos\szamKezeles\szamKezeles\bin\Debug\szamKezeles.exe
+C:\Users\sio87\source\repos\szamKezeles\szamKezeles\bin\Debug\szamKezeles.pdb
+C:\Users\sio87\source\repos\szamKezeles\szamKezeles\obj\Debug\szamKezeles.csproj.AssemblyReference.cache
+C:\Users\sio87\source\repos\szamKezeles\szamKezeles\obj\Debug\szamKezeles.Properties.Resources.resources
+C:\Users\sio87\source\repos\szamKezeles\szamKezeles\obj\Debug\szamKezeles.csproj.GenerateResource.cache
+C:\Users\sio87\source\repos\szamKezeles\szamKezeles\obj\Debug\szamKezeles.csproj.CoreCompileInputs.cache
+C:\Users\sio87\source\repos\szamKezeles\szamKezeles\obj\Debug\szamKezeles.exe
+C:\Users\sio87\source\repos\szamKezeles\szamKezeles\obj\Debug\szamKezeles.pdb
+C:\Users\sio87\source\repos\szamKezeles\szamKezeles\obj\Debug\szamKezeles.NumberFinder.resources
